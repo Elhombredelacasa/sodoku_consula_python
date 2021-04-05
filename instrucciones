@@ -1,0 +1,26 @@
+Este juego fue creado con fines pedagógicos por el estudiante Abadía Bejarano Danis
+perteneciente al pregrado Ingeniería electrónica. lab 9 Docente  ¬Posada
+
+-en cuanto al desarrollo de el juego por favor usar solo minusculas para evitar errores
+
+-Seguir las instrucciones al pie de la letra asi como se ven en los ejemplos
+                        COMANDOS
+ * Para modificar una casilla : Por favor ingresar el comando "m" Seguido de la tecla "ENTER"
+Ej: "mi3 6".
+ * Para ingresar un nuevo valor : ingrese sus cordenadas seguida de un espacion y su valor
+seguido de la tecla "ENTER". Ej: "a1 3".
+ * Para borrar el valor de una casilla y dejarlo en blanco : Por favor ingresar la palabra "clear" 
+seguida de sus correspondientes coordenadas, seguido de la tecla "ENTER". Ej:  "clear b7".
+-no olvide manejar un espacio, ademas recuerde que no se pueden modificar o borrar ninguna de las 
+coordenadas que inician con el juego.
+ * Para Borrar todos los cambios realizados en el tablero : Por favor ingresar la palabra 
+"clear board" seguida de la tecla "ENTER"
+ * Para iniciar un nuevo tablero: Por favor ingresar la palabra "new" seguida de la tecla "ENTER"
+ * Para guardar su partida por favor ingresar la palabra "save" seguido de el nombre que desea
+poner a su plantilla Ej "save miplantilla" seguido de la tecla "ENTER"
+ * Para abrir una partida guardada ingresar la palabra "load" seguida de el nombre con el cual guardo
+su partida de su partida, si no reguerda el nombre de su partida ingresar el comando "savering"
+para ver el listado de todas las partidas guardadas.
+Ej "load miplantilla"
+ * Para Finalizar el Juego: Por favor ingresar la palabra "exit" seguida de la tecla "ENTER"
+ 

@@ -1,0 +1,155 @@
+# -*- coding: utf-8 -*-
+# Implemente cada una de las funciones descritas a continuación
+
+def printIntro(filename):
+   a = open(filename,"r")
+   b = a.read()
+   print(b)
+   a.close()
+'''
+	Imprime el contenido de un archivo en pantalla. El archivo contiene
+	un mensaje de bienvenida del juego.		
+	Entradas y salidas:
+		- inputs: string que contiene el nombre del archivo
+		- returns: ninguno, solo imprime el archivo leído en pantalla	
+	'''
+def control(pn):
+    m = 0
+    if m == 0:
+        print('Para iniciar a jugar debes elegir un panel:')
+        print('¿Como deseas elegir tu panel?')
+        print('Modo -Manual ingresa : "1" = ')
+        print('Modo -Aleatorio presione cualquier tecla o "ENTER"')
+        modo = input('Ingresar Modo: = ')
+        if modo is '1' :
+            print('*** ¡Has elegido el modo manual! ***')
+            print('Son 5 paneles solo debes ingresar el numero de el panel')
+            panel = int(input('Por favor ingresa el numero del panel elegido ='))
+            if panel < 6:
+                tor = panel
+        else:
+            import random
+        tor = random.randrange(1,6)
+        if tor == 0:
+            tor == 5
+    valor = tor
+    pn = valor
+    return pn
+alt = 0
+
+'''Esta fue una funcion alternativa que decidi crear para brindarle las dos 
+opciones al usuario por si quiere elegir su panel de manera manual o 
+automatica'''
+
+def getRandomSudoku(n_sud): #agregar mas opciones
+    c = control(alt)
+    w = str(c)
+    q =('sd')
+    t = (".txt")
+    texto = q + w + t
+    a = open(texto,'r')
+    e = []
+    for linea in a.readlines():
+        partes_linea = linea.split()
+        e.append(partes_linea)
+    cambio = str(e)
+    ptr = cambio.replace('"', '').replace("'", '')
+    arreglo = ptr
+    m = eval(arreglo)
+    matriz = m
+    # se puede omitir es provicional
+    #matriz[1][0] = 18 #mas o menos asi
+    n_sud = matriz
+    print('')
+    print('Has elegido el panel',c)
+    return n_sud
+        
+  
+'''
+	Selecciona aleatoriamente uno de los archivos para cargarlo como juego 
+	inicial en un arreglo 2D.		
+	Entradas y salidas:
+		- inputs: int con el número de sudokus disponibles
+		- return: list de dos dimensiones (9x9) conteniendo el sudoku	
+	'''
+
+	
+def printSudoku(M):
+    global text
+    print('                             '+'   1  2  3  4  5  6  7  8  9')
+    print('                             '+'a',M[0])
+    print('                             '+'b',M[1])
+    print('                             '+'c',M[2])
+    print('                             '+'d',M[3])
+    print('           Dani Abbey inc.   '+'e',M[4],'    Dani Abbey inc')
+    print('                             '+'f',M[5])
+    print('                             '+'g',M[6])
+    print('                             '+'h',M[7])
+    print('                             '+'i',M[8])# Esto es lo que are en la funcion  
+    print('')
+    print('Recuerda para jugar debes ingresar la coordenada')
+    print('de la celda que deseas modificar seguida del número. Ej: "b7 4"')
+    print('Recuerde poner solo un espacio como en el ejemplo anterior') 
+'''
+	Imprime en pantalla el Sudoku de forma amigable para el usuario.		
+	Entradas y salidas:
+		- inputs: list de 9x9 conteniendo el sudoku
+		- return: nada	
+	'''
+
+def validCoord(coord,columna,dic,letra,lugar,numero):
+    if coord[columna][dic[letra]] == 0:
+       #coord[columna][dic[fila]] = lugar
+       coord = coord[columna][dic[letra]]
+       print(dic[letra], 'es tu fila',numero,'es tu columna y lugar es',lugar)
+       print(coord)
+       return True, coord         
+    else:
+       return False
+
+  
+'''
+		
+	Entradas y salidas:
+		- inputs: string que contiene la coordenada
+		- return: True si la coordenada es válida, False en caso contrario	
+	'''
+
+			
+	
+#def checkFil(fil, dat, M):
+ #   fil = valivCoord(coord)
+  #  if fil == True:
+   #     F = valivCoord(coord)
+    #    colo = [columna+1][dic[fila]]
+        
+'''
+	Verifica si en la fila especificada ya existe el número que se quiere ingresar.
+	Entradas y salidas:
+		- inputs: int fila, int número y list que contiene el sudoku
+		- return: True si es posible ingresar el valor, False en caso contrario	
+	'''
+
+		
+		
+def checkCol(col, dat, M):
+	'''
+	Verifica si en la columna especificada ya existe el número que se quiere ingresar.		
+	Entradas y salidas:
+		- inputs: int columna, int dato y list que contiene el sudoku
+		- return: True si es posible ingresar el valor, False en caso contrario	
+	'''
+
+		
+
+def checkBloque(fil, col, dat, M):
+	'''
+	Verifica si en el bloque al que pertenece la coordena [fil,col] ya existe el número 
+	que se quiere ingresar.
+		- inputs: int fila, int columna, int dato y list que contiene el sudoku
+		- return: True si es posible ingresar el valor, False en caso contrario	
+	'''
+
+# Si lo considera necesario, incluya funciones adicionales utilies para el desarrollo del juego en main.py
+	
+
