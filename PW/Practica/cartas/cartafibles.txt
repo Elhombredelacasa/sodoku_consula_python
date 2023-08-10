@@ -1,0 +1,16 @@
+circunstancia 1, pago completo
+Queremos agradecer su fidelidad y pronto pago, debido que ha hecho oportunamente todos sus pagos
+le ofrecemos un descuento de xx en su próxima compra del producto [nombre del producto y marca]. 
+Esperamos su presencia en nuestra tienda. 
+
+
+circunstancia 2, consumido - pagado <= 10%
+Queremos agradecer su fidelidad, debido que ha mostrado ser un cliente fiable con sus pagos
+le ofrecemos un descuento de xx en su próxima compra del producto [nombre del producto y marca]. 
+Esperamos su presencia en nuestra tienda. 
+
+
+circunstancia 3, debe <= $ 15000
+Queremos agradecer su puntualidad en los pagos, debido que ha mostrado ser un cliente fiable
+le ofrecemos un descuento de xx en su próxima compra del producto [nombre del producto y marca]. 
+Esperamos su presencia en nuestra tienda. 

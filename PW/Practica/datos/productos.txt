@@ -1,0 +1,194 @@
+ID_PRODUCTOS,NOMBRE_PRODUCTO,MARCA,PRESENTACION,PRECIO DESCTO%
+3756,Aceite De Girasol,Legítimo,900 CC,1971,23
+8193,Pañales Descartables Para Bebes,Baby Sec,24 UN,13407,22
+5122,Lavandina Concentrada,Querubín,1 Lt,1377,28
+7171,Tapa De Asado,Sin Marca (Supermercado),1 KG,12600,31
+5125,Dulce De Leche Entero Clásico,La Serenísima,400 GR,3630,2
+5126,Algodón,Estrella,75 GR,1830,18
+7176,Pañales Descartables Para Bebes,Baby Sec,36 UN,13407,12
+3593,Sal Fina,Dos Anclas,500 GR,1275,32
+9738,Huevos Blancos,Sin Marca (Supermercado),6 UN,2565,14
+5643,Salchichon Con Jamon,Paladini,1 KG,11970,4
+8720,Lentejas Secas Remojadas,La Campagnola,300 GR,3387,9
+4625,Mayonesa Común,Ri-K May Doyp,485 GR,2370,2
+8793,Limpiador,Cif,375 GR,2097,25
+8220,Helado,Torpedo,63 GR,9111,31
+7197,Pañales Descartables Para Bebes,Baby Sec,36 UN,13407,5
+7198,Fideos Secos Tipo Tallarín,Pastas Canale,500 GR,1950,5
+3105,Queso Crema Entero,Mendicrim,300 GR,5100,7
+6179,Salchichon Con Jamon,Paladini,1 KG,11550,18
+1573,Fideos Secos Tipo Tallarín,Favorita,500 GR,2100,17
+5158,Tapas Para Empanadas,La Salteña,20 UN,4530,19
+2601,Aceite De Girasol,Cocinero,1500 CC,3606,15
+7724,Jamon Cocido,Sin Marca (Supermercado),1 KG,27000,35
+9266,Postre Niño,Shimy,120 GR,1590,14
+1589,Jabon En Polvo Para Lavarropas Baja Espuma,Querubín,800 GR,2820,24
+7737,Lavandina Comun,Ayudín,1 Lt,1551,3
+6206,Galletitas Dulces Envasadas Secas Sin Relleno,Boca De Dama,160 GR,1860,4
+2111,Aceite De Girasol,Natura,900 CC,2280,34
+7691,Crema Uat,Sancor,250 CC,2700,24
+7236,Vinagre,Dos Anclas,500 ML,1440,9
+8545,Aceite Mezcla,Cada Día,900 CC,2280,27
+2633,Toallas Femeninas Normal Con Alas,Lady Soft,8 UN,1617,16
+6731,Pan Mignon,Sin Marca (Supermercado),1 KG,5550,30
+5199,Medallon Carne Vacuna Congelada,Swift,4 UN,5640,13
+6736,Leche Entera Larga Vida U A T,Milkaut,1 Lt,2508,6
+6226,Autobrillo,Suiza,899 CC,5970,1
+3155,Leche Comun Entera,Sancor,1 Lt,2070,12
+7095,Pañales Descartables Para Bebes,Baby Sec,24 UN,13407,20
+9815,Tomate Perita En Lata,Alco,400 GR,2100,1
+4185,Yogur Descremado Con Copos,Ser,174 GR,2550,19
+9819,Autobrillo,Suiza,900 CC,5970,7
+4190,Aceite Mezcla,Bella Flor,900 CC,1956,34
+6753,Cuaderno Escolar Nro 3 Forrado Universo,Gloria,48 HOJAS,4350,5
+3171,Pañales Descartables Para Bebes,Baby Sec,30 UN,13407,34
+9317,Tapa De Nalga,Sin Marca (Supermercado),1 KG,13200,7
+1297,Te Común,Taragüí,25 UN,1275,23
+1641,Gaseosa Cola,Coca Cola,15 LT,3750,24
+5226,Manzana,Sin Marca (Supermercado),1 KG,3270,13
+2669,Yerba Mate Con Palo,Amanda,1 KG,8100,0
+6256,Cuaderno Escolar Nro 3,Gloria,48 HOJAS,1650,1
+8869,Azucar Blanca,Chango,1 KG,2190,14
+4211,Desodorante En Aerosol Femenino,Plusbelle,113 GR,5190,20
+5237,Harina De Trigo Comun 000,Favorita,1 KG,2181,1
+5239,Detergente Liquido Para Vajilla,Ala,750 ML,2655,3
+4221,Jabon En Pan,Zorro,150 GR,1260,3
+7294,Arroz,Gallo,500 GR,3870,27
+2689,Jugo Sin Diluir,Baggio,200 ML,870,33
+9858,Pan Rallado Comun,Preferido,500 GR,3270,0
+3207,Yerba Mate Con Palo,Unión,500 GR,4800,12
+7305,Te Común,La Morenita,25 UN,1320,9
+7306,Desodorante Masculino,Rexona,50 ML,4500,28
+4235,Cuadrada,Sin Marca (Supermercado),1 KG,14700,31
+2188,Batata,Sin Marca (Supermercado),1 KG,2073,35
+4749,Galletitas De Agua Comunes Envasadas,Media Tarde,110 GR,1452,18
+7107,Dulce De Batata,Canale,700 GR,9300,13
+1172,Jugo Concentrado,Mocoretá,1.5 LT,2250,17
+3223,Lechuga,Sin Marca (Supermercado),1 KG,3300,19
+7319,Autobrillo,Suiza,898 CC,5970,2
+7325,Caldo,Wilde,114 GR,2370,4
+3746,Lentejas Secas Remojadas,Inalpa,350 GR,2625,23
+8355,Papel Higienico Hoja Simple,Higienol,50 MTRS,3822,3
+9655,Sal Gruesa,Celusal,1 KG,1635,12
+2588,Polvo De Lavado,Granby,800 GR,3900,21
+8874,Pañales Descartables Para Bebes Cant. Extra Grande,Pampers Babysan,44 UN,30000,17
+2220,Carne Picada,Sin Marca (Supermercado),1 KG,7800,20
+4271,Queso Cremoso,Sin Marca (Supermercado),1 KG,13500,35
+9904,Jabon En Polvo Para Lavarropas Baja Espuma,Ace,800 GR,4362,13
+5811,Azucar Blanca,Ledesma,1 KG,2190,3
+5301,Limpiador Desengrasante,Mr. Músculo,500 ML,1317,19
+5307,Tomate Redondo,Sin Marca (Supermercado),1 KG,3150,3
+3467,Aceite Mezcla,Ideal,1500 CC,3606,19
+5824,Postre Niño,Danonino,161 GR,2385,33
+1218,Manteca,La Serenísima,200 GR,3450,19
+8771,Arroz Largo Fino 00000,Molinos Ala,500 GR,1440,35
+6340,Pure De Tomate,Alco,520 GR,1590,4
+3782,Tomate Perita En Lata,Noel,400 GR,1605,14
+8391,Queso Rallado,La Serenísima,120 GR,5550,35
+1742,Soda,Sierra De Los Padres,2.25 LT,2115,25
+6863,Sal Fina,Celusal,500 GR,1500,33
+6865,Gaseosa Lima Limón,Seven Up,1.5 LT,3750,18
+2259,Jugos En Polvo,Ser,100 GR,480,14
+3797,Salchichas Tipo Viena Con Piel,Paty Viena,6 UN,3120,8
+5846,Leche En Polvo Descremada,Nido,400 GR,8970,31
+8919,Crema De Leche Entera,Milkaut,200 CM3,2397,25
+7897,Aceite Mezcla,Ideal,900 CC,2262,34
+9434,Gaseosa Cola,Cunnington,1.5 LT,2760,32
+8925,Aceite De Girasol,Corazón / Gersol,1500 CC,3255,25
+1247,Postre Niño,Shimy,120 GR,1590,21
+3809,Pasta Dental En Crema O Gel,Odol,90 GR,1455,16
+7395,Aceite De Girasol,Cañuelas,1500 CC,3540,1
+9444,Aceite Mezcla,El Relicairo,1500 CC,3255,6
+3815,Aceite Mezcla,Marolio,900 CC,1671,14
+7912,Marucha,Sin Marca (Supermercado),1 KG,10800,33
+4329,Crema De Enjuague O Acondicionador Familiar,Plusbelle,1 Lt,4728,28
+1262,Jabon Blanco En Polvo,Zorro,3000 GR,11400,28
+8946,Aceite De Girasol,Cocinero,900 CC,2262,7
+7413,Shampoo Familiar,Plusbelle,1 Lt,4728,1
+5191,Caldo,Maggi,114 GR,2397,28
+8445,Jabon De Tocador,Limol,3 UN,2367,31
+6879,Cacao En Polvo,Toddy,180 GR,2310,35
+5376,PRODUCTO,MARCA,CANT.,Precio,7
+7894,Jugo Sin Diluir,Cepita,1 Lt,2850,34
+3846,Huevos Blancos,Avicoper,6 UN,2565,4
+8977,Sal Gruesa,Dos Anclas,1 KG,1710,11
+4883,Esponja Para Lavar Platos,Mortimer,1 UN,1197,32
+4372,Harina De Maiz (Polenta),Magica,500 GR,1737,4
+8469,Leche Comun Descremada Liquida,Sancor,1 Lt,2160,18
+3351,Vino Comun Tinto,Facundo,1 Lt,3120,0
+5916,Ají Morrón Fresco,Sin Marca (Supermercado),1 KG,9000,34
+4383,Roast Beef,Sin Marca (Supermercado),1 KG,12000,9
+1314,Desodorante Femenino,Rexona,50 ML,4350,20
+1827,Jugo Concentrado,Carioca,1.5 LT,2325,29
+2347,Agua Mineralizada,Kin,LT,2700,9
+5170,Café Molido,La Morenita,250 GR,4440,21
+1327,Mermelada De Ciruela,Arcor,454 GR,4365,12
+9011,Cerveza,Quilmes (Bajo Cero),970 ML,2970,28
+9527,Preservativos Super Finos,Tulipan,1 UN,7140,32
+9016,Aceite Mezcla,Cada Día,1500 CC,3636,33
+9019,Jabon Blanco En Polvo,Zorro,400 GR,1650,25
+8510,Tapa De Tarta,La Salteña,230 GR,1620,16
+3903,Leche Comun Entera Ultrapasteurizada,La Serenísima,1 Lt,2070,28
+3979,Aceite De Girasol,Zanoni,1500 CC,3255,4
+2885,Arvejas,Noel,300 GR,1110,4
+1864,Manteca,Milkaut,200 GR,3270,25
+9548,Hueso Con Carne,Sin Marca (Supermercado),1 KG,3600,22
+4408,Vinagre,Menoyo,500 ML,2010,31
+1874,Mermelada De Durazno,Canale,454 GR,3900,8
+9555,Fideos Secos Tipo Guiseros,Manera,500 GR,2220,34
+9556,Cebolla,Sin Marca (Supermercado),1 KG,1950,27
+6109,Aceite De Girasol,Costa Del Sol,900 CC,2079,11
+5983,Porotos,Arcor,350 GR,2040,22
+6497,Jabon Blanco En Polvo,Zorro,400 GR,1650,24
+9063,Zapallo,Sin Marca (Supermercado),1 KG,2700,25
+9073,Aceite De Girasol,Alsamar,900 CC,1956,25
+2963,Pure De Tomate,Arcor,520 GR,1362,7
+8052,Leche Entera Larga Vida U A T,Verónica,1 Lt,2697,31
+3902,Papel Higienico Hoja Simple,Campanita,320 MTRS,5997,19
+1257,Jabon Blanco En Polvo,Zorro,800 GR,3180,1
+9081,Fosforos,Ranchera,50 UND,1050,4
+2426,Hamburguesas De Carne Tradicionales,Paty,4 UN,6600,32
+3135,Vino Comun Tinto,Uvita,1 Lt,2715,0
+4481,Harina De Trigo 0000,Blancaflor,1 KG,2397,3
+6019,Pan Rallado Comun,Mamá Cocina,500 GR,3075,2
+7556,Repuesto De Hojas Tradicional,Gloria,96 HOJAS,4050,16
+1413,Mayonesa Común,Menoyo,500 CC,2190,19
+9099,Atun Al Natural,Gómes Da Costa,170 GR,2850,6
+9765,Jabon De Tocador,Suave,3 UN,2400,12
+6545,Pollo Entero Fresco-Congelado,Todas Las Marcas,1 KG,5550,24
+3139,Aceite De Girasol,Cañuelas,900 CC,2196,6
+8084,Tapa De Tarta Pascualina,Mendía,400 GR,2850,26
+4846,Queso Rallado,Tregar,120 GR,4797,10
+3478,Harina De Trigo Comun 000,Cañuelas,1 KG,1905,5
+3055,Galletitas Dulces Envasadas Secas Sin Relleno,Lincoln Toonix Choco,153 GR,1620,29
+8605,Galletitas De Agua Comunes Envasadas,Express Clasicas Paraguas,120 GR,1320,20
+2571,Salchichas Tipo Viena Con Piel,Swift,6 UN,2910,15
+6561,Limpiador Multiusos,Procenex,500 ML,1542,23
+6567,Atun Al Natural,La Campagnola,170 GR,6150,13
+9131,Toallas Femeninas Normal Con Alas,Calipso,8 UN,1440,9
+1455,Facturas,Sin Marca (Supermercado),1 UN,801,2
+4019,Postre Niño,Shimy,120 GR,1590,24
+6070,Leche En Polvo Descremada,La Serenísima,200 GR,3498,23
+8119,Jugos En Polvo,Arcor,25 GR,480,27
+7096,Arvejas,Alco,350 GR,1770,2
+7100,Gaseosa Lima Limón,Cunnington,1.5 LT,2760,31
+8638,Toallas Femeninas Normal Con Alas,Always,8 UN,1770,35
+4544,Aceite De Girasol,Legítimo,1500 CC,3276,4
+7243,Tostadas,Bimbo,150 GR,3165,20
+3062,Aceite De Girasol,Zanoni,900 CC,1956,31
+1995,Fideos Secos Tipo Guiseros,Pastas Canale,500 GR,1560,26
+7631,Azucar Blanca,Domino,1 KG,1800,8
+1493,Galletitas Dulces Envasadas Secas Sin Relleno,Vocación,465 GR,4020,23
+5597,Pera,Sin Marca (Supermercado),1 KG,2880,4
+6622,Postre Niño,Shimy,120 GR,1590,11
+1503,Alcohol Etilico,Mf,500 CC,3750,22
+7057,Dulce De Leche Entero Clásico,Ilolay,400 GR,2997,11
+3152,Pasta Dental En Crema O Gel,Kolynos,90 GR,1965,22
+5604,Cerveza Rubia,Bieckert,970 ML,2790,6
+6119,Panceta Salada,Paladini,1 KG,30000,24
+4584,Pan Lactal Blanco,Bimbo,630 GR,4350,19
+3049,Papa,Sin Marca (Supermercado),1 KG,1530,25
+4449,Postre Niño,Shimy,120 GR,1590,18
+1010,Leche Comun Descremada Liquida,La Serenísima,1 Lt,2160,31
+6646,Pollo Congelado,Sin Marca (Supermercado),1 KG,5550,17
+3064,Preservativos Super Finos,Prime,1 UN,8235,7

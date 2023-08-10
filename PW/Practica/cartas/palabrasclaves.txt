@@ -1,0 +1,20 @@
+PALABRA ENFASIS
+Queremos <b>
+agradecer <u>
+fidelidad <b><mark>
+pronto pago <i>
+oportunamente <mark>
+descuento de xx <i><b>
+fiable <b><u>
+[nombre del producto y marca] <b><i><mark>
+puntualidad <mark><i>
+atrasado <b><i><u>
+acercarse <b><u>
+aportes <i><b>
+procederá <b>
+cobro <i>
+jurídico <mark>
+invitarlo <b><mark>
+conocer <b>
+instalaciones <b><u>
+ofrecemos <b><u><mark>
